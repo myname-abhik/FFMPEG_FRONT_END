@@ -43,7 +43,7 @@ const Page1 = (props) => {
 
   return (
     <>
-      <div style={{ width: "600px" }} data-vjs-player>
+      <div style={{ width: "150vh"  }} data-vjs-player>
         <div ref={videoRef} />
       </div>
     </>
